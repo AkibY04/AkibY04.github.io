@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Experiences
-permalink: /experiences/
+title: Experience
+permalink: /experience/
 weight: 2
 ---
 
-# **Experiences**
+# **Experience**
 
 <div class="row">
 {% include about/timeline.html %}
