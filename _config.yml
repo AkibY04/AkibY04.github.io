@@ -1,10 +1,12 @@
 ### Site Settings ###
-title               : Akib Y.
+title               : Akib Yeahia
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+                      Hey! :wave: I'm Akib Yeahia, a Computer Science student with a passion for full-stack development and data analysis. 
+                      From my time at Stony Brook University, I've gotten hands-on experience 
+                      from API integration and data visualization, to enhancing team collaboration through tools / applications.
+                      If I'm not working on something, I'm playing basketball :basketball:, watching movies :tv:, or catching up on sleep :zzz:.
+                      Feel free to connect via <a href="mailto:akibyeahia04@gmail.com">Email</a> 
+                      or <a href="https://www.linkedin.com/in/akib-yeahia-b24135281/" target="_blank">LinkedIn</a>!
 repository          : AkibY04/AkibY04.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
