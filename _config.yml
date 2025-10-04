@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Akib Yeahia
 description         : >-
-                      Hey! :wave: I'm Akib Yeahia, a Computer Science student with a passion for full-stack development and data analysis. 
-                      From my time at Stony Brook University, I've gotten hands-on experience 
-                      from API integration and data visualization, to enhancing team collaboration through tools / applications.
+                      :wave: Hey! <br>I'm Akib Yeahia, a current senior at Stony Brook University with a passion for full-stack development and data analysis. 
+                      I've gotten hands-on experience ranging from API integration and data visualization to enhancing team collaboration through tools / applications.
                       If I'm not working on something, I'm playing basketball :basketball:, watching movies :tv:, or catching up on sleep :zzz:.
                       Feel free to connect via <a href="mailto:akibyeahia04@gmail.com">Email</a> 
                       or <a href="https://www.linkedin.com/in/akib-yeahia-b24135281/" target="_blank">LinkedIn</a>!
@@ -30,19 +29,19 @@ author:
   image             : https://media.licdn.com/dms/image/v2/D4E03AQHZrTD6tPC-Vw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732135011075?e=1762387200&v=beta&t=JCZ7HXR07C6hUgCT_jaL_7e-ji7d_oRriL5v89Nwp3o
 # dribbble          : your_username
   email             : akibyeahia04@gmail.com
-#  facebook          : your_username
+# facebook          : your_username
   github            : AkibY04
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
   linkedin          : https://www.linkedin.com/in/akib-yeahia-b24135281/
-#  medium            : your_username
+# medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-#  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 # keybase           : your_username
