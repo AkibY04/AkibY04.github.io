@@ -1,10 +1,9 @@
 ### Site Settings ###
 title               : Akib Yeahia
 description         : >-
-                      :wave: Hey! <br>I'm Akib Yeahia, a current senior at Stony Brook University with a passion for full-stack development and data analysis. 
-                      I've gotten hands-on experience ranging from API integration and data visualization to enhancing team collaboration through tools / applications.
-                      If I'm not working on something, I'm playing basketball :basketball:, watching movies :tv:, or catching up on sleep :zzz:.
-                      Feel free to connect via <a href="mailto:akibyeahia04@gmail.com">Email</a> 
+                      Hey, I'm <strong>Akib Yeahia</strong> :wave:! <br> I'm a student and full-stack developer with an interest in data science. 
+                      You can read more about me <a href="/about/"> here</a>. 
+                      Feel free to connect with me through <a href="mailto:akibyeahia04@gmail.com">Email</a> 
                       or <a href="https://www.linkedin.com/in/akib-yeahia-b24135281/" target="_blank">LinkedIn</a>!
 repository          : AkibY04/AkibY04.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU

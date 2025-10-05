@@ -1,26 +1,31 @@
-- title: Student - Stony Brook University
-  from: 2022
-  to: 2026
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, Stony Brook University
+  from: August 2022
+  to: May 2026
+  description: 
+              <strong>GPA:</strong> 3.53/4.0
+              <br>
+              <strong>Relevant Coursework:</strong> 
+              Analysis of Algorithms, Computer Architecture, Computer Networks, Data Structures, Discrete
+              Mathematics, Software Engineering, Survey of Probability and Statistics, System Fundamentals I & II, Web Security
+              <br>
+              <strong>Awards:</strong>
+              Fall 2024 & Spring 2025 Dean's List
 
-- title: Software Team Member - Solar Racing Team @ Stony Brook University
+
+- title: Software Team Member, Solar Racing Team @ Stony Brook University
   from: October 2023
   to: May 2024
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 
+              I supported the Solar Racing Team by developing applications to streamline
+              user accessibility and improve project management. I worked on a 24/7 Discord bot for
+              E-Board members to use for announcements / track info as well as an attendance tracker
+              linked to a college ID scanner and Google Sheets.
+              
 
-- title: Undergraduate Researcher - WebGen @ Stony Brook University
+- title: Undergraduate Researcher, WebGen @ Stony Brook University
   from: January 2025
   to: May 2025
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: 
+              I created a serverless web application that fetches and processs
+              large amounts of biomedical data from the OpenFDA API which is put into 
+              data visualizations for research / analysis.
