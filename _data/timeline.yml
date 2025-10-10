@@ -26,6 +26,6 @@
   from: January 2025
   to: May 2025
   description: 
-              I created a serverless web application that fetches and processs
-              large amounts of biomedical data from the OpenFDA API which is put into 
-              data visualizations for research / analysis.
+              I researched under computational biologist Alisa Yurovsky and Dr. Richard Moffitt, creating a serverless web application 
+              that fetches and processs large amounts of biomedical data with the OpenFDA API which is put into 
+              data visualizations for further analysis.
